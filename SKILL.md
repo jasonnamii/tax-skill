@@ -1,6 +1,7 @@
 ---
 name: tax-skill
-description: 한국 세무 7축(법인세·소득세·자본거래·국제조세·부가세·세무조사·2026개정+지방세) 풀스택 엔진. 케이스→법/판례/사례/옵션 4단으로 세무사 대체 수준 진단·전략·분쟁대응. 2026.5 최신 법령 반영. P1 세무스킬, tax skill, 세무진단, 세무컨설팅, 절세, 세법, 법인세, 소득세, 양도세, 증여세, 상속세, 부가세, 종부세, 세무조사, 불복, 가산세, 명의신탁, 가업승계, 이전가격, CFC, GMT, QDMTT, 유산취득세, 다주택중과, 성실신고, ISA, IRP, 가상자산, 창업감면, 엔젤투자, 벤처스톡옵션, R&D세액공제, PCI, CARF, 자금출처, 부담부증여, 세대생략, 조세포탈. P2 세무 진단해줘, 절세 짜줘, 세무조사 받았어, 가산세 부당해, 양도세 얼마, 증여세 어떻게, 상속세 짜줘, 가업승계 설계, 부가세 환급, 법인전환, 종부세 줄여줘. P3 Korean tax consulting, capital gains, gift tax, VAT, transfer pricing, tax audit, BEPS Pillar 2. P4 세무조사 통지 직후, 양도·증여·상속 직전, 가업승계 설계, 법인전환 검토, GMT 신고 판단, 2026 개정세법 영향. P5 진단서·절세설계서·.md. NOT 회계장부(→xlsx), 재무모델(→financial-model), BP(→bp-guide), 노동(→labor-hr-skill), 계약(→contract-consulting), 앱법무(→app-and-jang), 홀딩스(→holdings-consulting), 투자(→investment-skill).
+description: |
+  한국 세무 7축(법인세·소득세·자본거래·국제조세·부가세·세무조사·2026개정+지방세) 풀스택 엔진. 케이스→법/판례/사례/옵션 4단으로 세무사 대체 수준 진단·전략·분쟁대응. 2026.5 최신 법령 반영. 트리거: 세무스킬, tax skill, 세무진단, 세무컨설팅, 절세, 세법, 법인세, 소득세, 양도세, 증여세, 상속세, 부가세, 종부세, 세무조사, 불복, 가산세, 명의신탁, 가업승계, 이전가격, CFC, GMT, QDMTT, 유산취득세, 다주택중과, 성실신고, ISA, IRP, 가상자산. NOT: 회계장부(→xlsx), 재무모델(→financial-model), BP(→bp-guide), 노동(→labor-hr-skill), 계약(→contract-consulting), 앱법무(→app-and-jang), 홀딩스(→holdings-consulting), 투자(→investment-skill).
 ---
 
 # tax-skill v1.0 — 한국 세무 7축 풀스택 엔진
