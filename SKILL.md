@@ -1,5 +1,6 @@
 ---
 name: tax-skill
+version: 1.0
 description: |
   한국 세무 7축(법인세·소득세·자본거래·국제조세·부가세·세무조사·2026개정+지방세) 풀스택 엔진. 케이스→법/판례/사례/옵션 4단으로 세무사 대체 수준 진단·전략·분쟁대응. 2026.5 최신 법령 반영. 트리거: 세무스킬, tax skill, 세무진단, 세무컨설팅, 절세, 세법, 법인세, 소득세, 양도세, 증여세, 상속세, 부가세, 종부세, 세무조사, 불복, 가산세, 명의신탁, 가업승계, 이전가격, CFC, GMT, QDMTT, 유산취득세, 다주택중과, 성실신고, ISA, IRP, 가상자산. NOT: 회계장부(→xlsx), 재무모델(→financial-model), BP(→bp-guide), 노동(→labor-hr-skill), 계약(→contract-consulting), 앱법무(→app-and-jang), 홀딩스(→holdings-consulting), 투자(→investment-skill).
 ---
